@@ -142,10 +142,6 @@ My current focus is growing stronger in Android and backend development while bu
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MhdFarhannn&theme=radical&hide_border=true" alt="Contribution Graph" height="300" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/github/followers/MhdFarhannn?style=social" alt="Followers" />
   <img src="https://img.shields.io/github/stars/MhdFarhannn?style=social" alt="Stars" />
 </p>
