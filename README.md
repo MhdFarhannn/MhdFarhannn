@@ -132,10 +132,24 @@ My current focus is growing stronger in Android and backend development while bu
 
 ## GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MhdFarhannn&theme=radical" alt="GitHub Profile Summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MhdFarhannn&theme=radical" alt="Languages by Repository" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MhdFarhannn&theme=radical" alt="Languages by Commit" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MhdFarhannn&theme=radical&hide_border=true" alt="Contribution Graph" height="300" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/MhdFarhannn?style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/MhdFarhannn?style=social" alt="Stars" />
+</p>
+
 
 ---
 
