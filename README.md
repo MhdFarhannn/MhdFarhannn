@@ -1,4 +1,4 @@
-# Hi, I'm Farhan
+# Hi, I'm Muhammad Farhan
 
 **Software Engineering Student | Android Developer | Backend Developer**
 
@@ -21,7 +21,7 @@ I also like building thoughtful, personalized digital experiences, such as tools
 
 ## Featured Project
 
-**Exam Encouragement Greeting Cards** (Android, Kotlin, Jetpack Compose)
+**Exam Encouragement Greeting Cards** (Android, Kotlin)
 
 A modular Android app for generating motivational greeting cards for people facing exams.
 
@@ -38,7 +38,6 @@ A modular Android app for generating motivational greeting cards for people faci
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
 
 - Kotlin
@@ -46,7 +45,6 @@ A modular Android app for generating motivational greeting cards for people faci
 - XML Layout
 - ViewBinding
 - RecyclerView
-- Jetpack Compose
 - Coroutines
 - Retrofit
 - Material Components
@@ -71,10 +69,14 @@ A modular Android app for generating motivational greeting cards for people faci
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 - SQL Server
 - MySQL
+- MariaDB
+- PostgreSQL
 - SQLite
 - Database Design
 - ERD
