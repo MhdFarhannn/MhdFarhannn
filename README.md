@@ -1,16 +1,12 @@
-# Hi, I'm Muhammad Farhan
+# Muhammad Farhan
 
 **Software Engineering Student | Android Developer | Backend Developer**
 
-I'm a Software Engineering (RPL) student from Indonesia who learns software development through hands-on experience, experimentation, and problem solving.
-
-My main interests are Android development, backend development, API integration, and databases.
+Software Engineering (RPL) student from Indonesia, focused on Android and backend development. I develop my skills through hands-on projects, with particular interest in API integration and relational databases.
 
 ## About Me
 
-I enjoy understanding how software works beyond the user interface: from the mobile client, through the API and backend, down to the database.
-
-I also like building thoughtful, personalized digital experiences, such as tools that encourage other people during exam season.
+I work across the full application stack: from the mobile client, through the REST API and backend services, down to the database. I am interested in building thoughtful, personalized digital experiences and in writing clean, maintainable code.
 
 - Software Engineering student
 - Android developer (Kotlin)
@@ -18,19 +14,6 @@ I also like building thoughtful, personalized digital experiences, such as tools
 - Database design and SQL
 - REST API design and integration
 - Problem solving and debugging
-
-## Featured Project
-
-**Exam Encouragement Greeting Cards** (Android, Kotlin)
-
-A modular Android app for generating motivational greeting cards for people facing exams.
-
-- Photo attachment
-- Recipient and sender information
-- Exam details
-- Quote selection and personal messages
-- Visual themes
-- Clean modular architecture with a polished UI
 
 ## Tech Stack
 
@@ -90,7 +73,6 @@ A modular Android app for generating motivational greeting cards for people faci
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
 ## Skills
