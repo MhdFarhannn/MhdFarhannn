@@ -79,7 +79,7 @@ I work across the full application stack: from the mobile client, through the RE
 
 ### Android Development
 
-Building Android applications using Kotlin, XML, Jetpack components, and modern Android development practices.
+Building Android applications using Kotlin, XML, and modern Android development practices.
 
 ### Backend Development
 
